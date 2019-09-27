@@ -1,1 +1,1 @@
-# Virtual-INteractive-Assistant
+# Virtual-Interactive-Assistant
